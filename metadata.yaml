@@ -1,0 +1,52 @@
+_repo: Early-Greek-Philosophy-Other-Essays-Collected-Works-Volume-Two_51548
+_version: 0.0.1
+alternative_title: Early Greek Philosophy and Other Essays
+contributor:
+  translator:
+    agent_name: Mügge, Maximilian A. (Maximilian August)
+    aliases:
+    - Mugge, Maximilian A. (Maximilian August)
+    - Mügge, M. A. (Maximilian August)
+    - Mügge, Maximilian August
+    birthdate: 1878
+    gutenberg_agent_id: '46465'
+    url: http://www.gutenberg.org/2009/agents/46465
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+  editor:
+    agent_name: Levy, Oscar
+    aliases:
+    - Levy, O. (Oscar)
+    - Levy, Oscar Ludwig
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '7862'
+    url: http://www.gutenberg.org/2009/agents/7862
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
+description: ''
+gutenberg_issued: '2016-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, Ancient'
+- GITenberg
+tableOfContents: Translator's preface -- The Greek State -- The Greek woman -- On
+  music and words -- Homer's contest -- The relation of Schopenhauer's philosophy
+  to a German culture -- Philosophy during the tragic age of the Greeks -- On truth
+  and falsity in their ultramoral sense.
+title: 'Early Greek Philosophy & Other Essays
+
+  Collected Works, Volume Two'
+url: http://www.gutenberg.org/ebooks/51548
