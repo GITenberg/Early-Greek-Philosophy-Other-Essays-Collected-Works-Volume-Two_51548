@@ -1,5 +1,5 @@
 _repo: Early-Greek-Philosophy-Other-Essays-Collected-Works-Volume-Two_51548
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Early Greek Philosophy and Other Essays
 contributor:
   translator:
@@ -11,6 +11,9 @@ contributor:
     birthdate: 1878
     gutenberg_agent_id: '46465'
     url: http://www.gutenberg.org/2009/agents/46465
+covers:
+- cover_type: archival
+  image_path: 51548-h/images/cover.jpg
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51548#Early-Greek-Philosophy-Other-Essays-Collected-Works-Volume-Two
 gutenberg_issued: '2016-03-25'
 gutenberg_type: Text
 identifiers:
